@@ -1,5 +1,9 @@
 # ApiConsumption
 
+## Setup
+
+- composer install
+
 ### Usage with one parameter
 
  - php index.php Spain
