@@ -18,3 +18,8 @@
   
 ### [Output]
   - Spain and Poland do not speak the same language
+  
+### Unit tests:
+
+  - ./vendor/bin/phpunit tests
+
